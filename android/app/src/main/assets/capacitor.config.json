@@ -1,0 +1,6 @@
+{
+  "appId": "com.ionic.starter",
+  "appName": "booking.yoss",
+  "bundledWebRuntime": false,
+  "webDir": "www"
+}

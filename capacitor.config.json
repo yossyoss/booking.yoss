@@ -1,0 +1,6 @@
+{
+  "appId": "com.yossyoss.booking.yoss",
+  "appName": "booking.yoss",
+  "bundledWebRuntime": false,
+  "webDir": "www"
+}

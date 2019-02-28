@@ -1,5 +1,7 @@
 {
   "name": "booking.yoss",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "angular"
 }
